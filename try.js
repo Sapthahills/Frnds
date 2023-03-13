@@ -30,7 +30,7 @@ function frndzfn(){
             break;
 
             case "Aravind":
-                Nickname="Lawer thambi"
+                Nickname="Lawyer thambi"
         City="Trichy"
         Ph=9384926547
         break;
